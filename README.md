@@ -1,1 +1,1 @@
-# agibson-magnolia.github.io
+Simple GitHub-Hosted Homepage For magnoliapropertycollective.com
